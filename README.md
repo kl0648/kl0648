@@ -2,7 +2,7 @@
 Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical engineering from Yonsei University, Seoul, South Korea, in 2016. He earned a Master's degree in Electrical and Computer Engineering from Hanyang University and Michigan State University in 2019 and 2023, respectively. He is currently seeking a Doctoral degree in Electrical and Computer Engineering at Purdue University. His research interests include partial discharge, power electronics, multi-level inverters, electromagnetic interference, motor drives, and cubesat.
 
 # Research Interests
-• All of Energy Conversion System (Electrical Machines, Power Electronics, etc.)\
+• All of Energy Conversion System (Power Electronics, Electrical Machines, etc.)\
 • Investigation and Mitigation of Partial Discharge Phenomena in WBG-based AC Machine Drives\
 • Analysis, Modeling, Design, and Manufacturing of Multi-level Inverters\
 • Analytical Method of Design and Optimization for Neutral-Point-Less Inverters\
