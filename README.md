@@ -20,7 +20,7 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 • Hyundai Motors, Hwaseong, South Korea (Feb. 2016 ~ Apr.2021)\
 &nbsp; - Assistant Manager Research Engineer, Electronics Engineering Team, Namyang Research Institute, 2020-2021\
 &nbsp;&nbsp;&nbsp; - Led design and development of integrated central power units, ensuring optimal performance, efficiency, and reliability.\
-&nbsp;&nbsp;&nbsp; - Designed electrical architectures, including inverter, on-board charger, and DC-DC converters for Genesis GV60 and other EV platforms.\
+&nbsp;&nbsp;&nbsp; - Designed electrical architectures, including inverter, on-board charger, and DC-DC converters for EV platforms.\
 &nbsp; - Staff Research Engineer, Electronics Engineering Team, Namyang Research Institute, 2016-2019\
 &nbsp;&nbsp;&nbsp; - Achieved cost reduction, optimizing power conversion strategies and packaging constraints.\
 &nbsp;&nbsp;&nbsp; - Validated and tested power electronics components, ensuring compliance with industry standards and company specifications.\
