@@ -11,23 +11,23 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 • Modeling and Design, and Manufacturing of Cubesats
  
 # Education
-• B.S. Yonsei University in Feb. 2016\
-• M.S. Hanyang University in May. 2019\
+• B.S. Yonsei University in 2016\
+• M.S. Hanyang University in 2019\
 &nbsp; - Advisor : Professor Ju Lee\
-• M.S. Michigan State University in Dec. 2023\
+• M.S. Michigan State University in 2023\
 &nbsp; - Advisor : Professor Woongkul Lee\
-• Ph.D. Purdue University in Aug. 2026\
+• Ph.D. Purdue University in 2026\
 &nbsp; - Advisor : Professor Woongkul Lee
  
 # Professional Work Experiences
-• Hyundai Motors, Hwaseong, South Korea (Feb. 2016 ~ Apr.2021)\
+• Hyundai Motors, Hwaseong, South Korea (2016-2021)\
 &nbsp; - Assistant Manager Research Engineer, Electronics Engineering Team, Namyang Research Institute, 2020-2021\
 &nbsp;&nbsp;&nbsp; - Led design and development of integrated central power units, ensuring optimal performance, efficiency, and reliability.\
 &nbsp;&nbsp;&nbsp; - Designed electrical architectures, including inverter, on-board charger, and DC-DC converters for EV platforms.\
 &nbsp; - Staff Research Engineer, Electronics Engineering Team, Namyang Research Institute, 2016-2019\
 &nbsp;&nbsp;&nbsp; - Achieved cost reduction, optimizing power conversion strategies and packaging constraints.\
 &nbsp;&nbsp;&nbsp; - Validated and tested power electronics components, ensuring compliance with industry standards and company specifications.\
-• Yonsei University, Seoul, South Korea (Dec. 2013 ~ Jan. 2016)\
+• Yonsei University, Seoul, South Korea (2013-2016)\
 &nbsp; - Researcher, Electrical Power System\
 &nbsp;&nbsp;&nbsp; - Power management & Strategy.\
 &nbsp;&nbsp;&nbsp; - Designed deployable solar panel.\
