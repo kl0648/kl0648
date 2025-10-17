@@ -28,9 +28,9 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 &nbsp;&nbsp;&nbsp; - Validated and tested power electronics components, ensuring compliance with industry standards and company specifications.\
 • Yonsei University, Seoul, South Korea (Dec. 2013 ~ Jan. 2016)\
 &nbsp; - Researcher, Electrical Power System\
-&nbsp; - Power management & Strategy.\
-&nbsp; - Designed deployable solar panel.\
-&nbsp; - Designed wiring harness / Packaging.
+&nbsp;&nbsp;&nbsp; - Power management & Strategy.\
+&nbsp;&nbsp;&nbsp; - Designed deployable solar panel.\
+&nbsp;&nbsp;&nbsp; - Designed wiring harness / Packaging.
  
 # Publications
 [Journal]\
