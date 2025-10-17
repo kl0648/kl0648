@@ -13,6 +13,7 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 # Education
 • B.S. Yonsei University in Feb. 2016\
 • M.S. Hanyang University in May. 2019\
+&nbsp; - Advisor : Professor Ju Lee\
 • M.S. Michigan State University in Dec. 2023\
 • Ph.D. Purdue University in Aug. 2026\
 &nbsp; - Advisor : Professor Woongkul Lee
