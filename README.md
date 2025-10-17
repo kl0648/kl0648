@@ -42,7 +42,7 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 • M. Fereydoonian, K. Lee, C. Kiriella, J. Moon and W. Lee, "Closing the loop on circular economy in transportation electrification: Reuse, repurposing, and recycling of batteries, power electronics, and electric machines," IEEE J. Emerg. and Select. Topics in Ind. Electron., vol. 6, no. 3, pp. 931-947, July 2025.\
 • M. Jeong, K. Lee, S. Song, S. Lee, and W. Kim, “A study of magnetization yoke design for post-assembly magnetization performance improvement of a spoke-type permanent magnet synchronous motor,” Energies, 11 (9), 2023.\
 • H. Pyo, K. Lee, J. Min, M. Hong, and W. Kim, “Eddy current loss reduction in axial-flux motors using 3D printing,” Energies, 16 (3), 2023.\
-[Conference]\
+[Conference]\\
 • K. Lee, M. Benson, X. Dong, J. Moon, and W. Lee, "Common-mode EMI noise analysis of Neutral-Point-Less (NPL) multilevel X-type inverter," 2024 IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, USA, 2024, pp. 1014-1020.\
 • K. Lee, M. Fereydoonian, M. S. S. Nia, and W. Lee, "A comprehensive review of partial discharge modeling and measurement in WBG-based AC machine drives," 2023 IEEE Transportation Electrification Conference & Expo (ITEC), Detroit, MI, USA, 2023, pp. 1-6.\
 • K. Lee, M. Benson, M. Fereydoonian, X. Dong, J. Moon, and W. Lee, "Comprehensive electromagnetic interference analysis of Neutral-Point-Less (NPL) multilevel inverter with active common-mode voltage cancellation," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023, pp. 237-243.\
