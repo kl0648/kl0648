@@ -26,7 +26,7 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 &nbsp;&nbsp;&nbsp; - Designed electrical architectures, including inverter, on-board charger, and DC-DC converters for EV platforms.\
 &nbsp; - Staff Research Engineer, Electronics Engineering Team, Namyang Research Institute, 2016-2019\
 &nbsp;&nbsp;&nbsp; - Achieved cost reduction, optimizing power conversion strategies and packaging constraints.\
-&nbsp;&nbsp;&nbsp; - Validated and tested power electronics components, ensuring compliance with industry standards and company specifications.\
+&nbsp;&nbsp;&nbsp; - Tested power electronics components, ensuring compliance with industry standards and company specifications.\
 • Yonsei University, Seoul, South Korea (2013-2016)\
 &nbsp; - Researcher, Electrical Power System\
 &nbsp;&nbsp;&nbsp; - Power management & Strategy.\
