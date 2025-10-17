@@ -1,5 +1,5 @@
 # Biography
-Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical engineering from Yonsei University, Seoul, South Korea, in 2016. He earned a Master's degree in Electrical and Computer Engineering from Hanyang University and Michigan State University in 2019 and 2023, respectively. He is currently seeking a Doctoral degree in Electrical and Computer Engineering at Purdue University. His research interests include partial discharge (PD), power electronics, multi-level inverters, electromagnetic interference (EMI), high-performance motor drives, and cubesat.
+Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical engineering from Yonsei University, Seoul, South Korea, in 2016. He earned a Master's degree in Electrical and Computer Engineering from Hanyang University and Michigan State University in 2019 and 2023, respectively. He is currently seeking a Doctoral degree in Electrical and Computer Engineering at Purdue University. His research interests include high-performance motor drives, partial discharge (PD), power electronics, multi-level inverters, electromagnetic interference (EMI), and cubesat.
 
 # Research Interests
 • All of Energy Conversion System (Power Electronics, Electrical Machines, etc.)\
