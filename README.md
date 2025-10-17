@@ -33,7 +33,7 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 &nbsp; - Designed wiring harness / Packaging.
  
 # Publications
-[Journal]
+[Journal]\
 • K. Lee, M. Benson, M. S. S. Nia, and W. Lee, “Electromagnetic interference and partial discharge signature analysis of WBG-based AC motor drives,” IEEE Trans. Ind. Appl., 2024.\
 • K. Lee, M. Benson, X. Dong, L. Yi, J. Moon, and W. Lee, "Common-Mode EMI analysis with active CMV cancellation in Neutral-Point-Less H-Type inverter," IEEE Trans. Power Electron., vol. 40, no. 10, pp. 15003-15012, Oct. 2025.\
 • K. Lee, H. Kim, and W. Lee, "Brushless wound field synchronous generator design with an optical power transfer," IEEE Trans. Magn., vol. 61, no. 9, pp. 1-5, Sept. 2025.\
