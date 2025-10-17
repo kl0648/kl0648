@@ -40,7 +40,7 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 • K. Lee, H. Kim, and W. Lee, "Brushless wound field synchronous generator design with an optical power transfer," IEEE Trans. Magn., vol. 61, no. 9, pp. 1-5, Sept. 2025.\
 • K. Lee, M. Fereydoonian, M. Benson, and W. Lee, “Grid-Connected PV Inverter for Driving Induction Machines with Synchronous Scalar Control,” IEEE Access, vol. 12, pp. 5177-5187, 2024.\
 • X. Dong, M. Benson, K. Lee, J. Moon, and W. Lee, “NPL.H: Neutral-Point-Less H-Type 3-Level Inverter,” IEEE Trans. Power Electron., 2023.\
-• M. Fereydoonian, K. Lee, C. Kiriella, J. Moon and W. Lee, "Closing the loop on circular economy in transportation electrification: Reuse, repurposing, and recycling of batteries, power electronics, and electric machines," IEEE J. Emerg. and Select. Topics in Ind. Electron., vol. 6, no. 3, pp. 931-947, July 2025.\
+• M. Fereydoonian, K. Lee, C. Kiriella, J. Moon, and W. Lee, "Closing the loop on circular economy in transportation electrification: Reuse, repurposing, and recycling of batteries, power electronics, and electric machines," IEEE J. Emerg. and Select. Topics in Ind. Electron., vol. 6, no. 3, pp. 931-947, July 2025.\
 • M. Jeong, K. Lee, S. Song, S. Lee, and W. Kim, “A study of magnetization yoke design for post-assembly magnetization performance improvement of a spoke-type permanent magnet synchronous motor,” Energies, 11 (9), 2023.\
 • H. Pyo, K. Lee, J. Min, M. Hong, and W. Kim, “Eddy current loss reduction in axial-flux motors using 3D printing,” Energies, 16 (3), 2023.\
 [Conference]\
