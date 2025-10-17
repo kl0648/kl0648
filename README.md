@@ -3,6 +3,7 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 
 # Research Interests
 • All of Energy Conversion System (Electrical Machines, Power Electronics, etc.)\
+• Investigation and Mitigation of Partial Discharge Phenomena in WBG-based AC Machine Drives\
 • Analysis, Modeling, Design, and Manufacturing of Multi-level Inverters\
 • Analytical Method of Design and Optimization for Neutral-Point-Less Inverters\
 • Design and Analysis of Optical Power Excited Brushless Wound Field Synchronous Generator\
