@@ -34,15 +34,20 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 &nbsp;&nbsp;&nbsp; - Designed wiring harness / Packaging.
  
 # Publications
-[Journal]\
-• K. Lee, M. Benson, X. Dong, L. Yi, J. Moon, and W. Lee, "Common-Mode EMI analysis with active CMV cancellation in Neutral-Point-Less H-Type inverter," IEEE Trans. Power Electron., vol. 40, no. 10, pp. 15003-15012, Oct. 2025.\
-• K. Lee, H. Kim, and W. Lee, "Brushless wound field synchronous generator design with an optical power transfer," IEEE Trans. Magn., vol. 61, no. 9, pp. 1-5, Sept. 2025.\
-• K. Lee, M. Benson, M. S. S. Nia, and W. Lee, “Electromagnetic interference and partial discharge signature analysis of WBG-based AC motor drives,” IEEE Trans. Ind. Appl., 2024.\
-• K. Lee, M. Fereydoonian, M. Benson, and W. Lee, “Grid-Connected PV Inverter for Driving Induction Machines with Synchronous Scalar Control,” IEEE Access, vol. 12, pp. 5177-5187, 2024.\
-• X. Dong, M. Benson, K. Lee, J. Moon, and W. Lee, “NPL.H: Neutral-Point-Less H-Type 3-Level Inverter,” IEEE Trans. Power Electron., 2023.\
-• M. Fereydoonian, K. Lee, C. Kiriella, J. Moon, and W. Lee, "Closing the loop on circular economy in transportation electrification: Reuse, repurposing, and recycling of batteries, power electronics, and electric machines," IEEE J. Emerg. and Select. Topics in Ind. Electron., vol. 6, no. 3, pp. 931-947, July 2025.\
-• M. Jeong, K. Lee, S. Song, S. Lee, and W. Kim, “A study of magnetization yoke design for post-assembly magnetization performance improvement of a spoke-type permanent magnet synchronous motor,” Energies, 11 (9), 2023.\
-• H. Pyo, K. Lee, J. Min, M. Hong, and W. Kim, “Eddy current loss reduction in axial-flux motors using 3D printing,” Energies, 16 (3), 2023.\
+[Journal]
+• K. Lee, M. Benson, X. Dong, L. Yi, J. Moon, and W. Lee, "Common-mode EMI analysis with active CMV cancellation in Neutral-Point-Less H-Type inverter," IEEE Trans. Power Electron., vol. 40, no. 10, pp. 15003-15012, Oct. 2025.\
+• K. Lee, H. Kim and W. Lee, "Brushless wound field synchronous generator design with an optical power transfer," IEEE Trans. Magn., vol. 61, no. 9, pp. 1-5, Sept. 2025.\
+• K. Lee, M. Benson, M. S. S. Nia and W. Lee, "Electromagnetic interference and partial discharge signature analysis of WBG-based AC motor drives," IEEE Trans. Ind. Appl., vol. 60, no. 4, pp. 6232-6241, July-Aug. 2024.\
+• X. Dong, M. Benson, K. Lee, L. Yi, W. Lee and J. Moon, "NPL.H: Neutral-Point-Less H-Type 3-level inverter," IEEE Trans. Power Electron., vol. 39, no. 2, pp. 2522-2536, Feb. 2024.\
+• K. Lee, M. Fereydoonian, M. Benson, A. Dornala, M. Guven, Y. Dong, and W. Lee, "Grid-connected PV inverter for driving induction machines with synchronous scalar control," IEEE Access, vol. 12, pp. 5177-5187, 2024.\
+• M. Fereydoonian, K. Lee, C. Kiriella, J. Moon and W. Lee, "Closing the loop on circular economy in transportation electrification: Reuse, repurposing, and recycling of batteries, power electronics, and electric machines," IEEE J. Emerg. and Select. Topics in Ind. Electron., vol. 6, no. 3, pp. 931-947, July 2025.\
+-	M. Jeong, K. Lee, S. Song, S. Lee, and W. Kim, “A study of magnetization yoke design for post-assembly magnetization performance improvement of a spoke-type permanent magnet synchronous motor,” Machines, 11 (9), 2023.\
+-	H. Pyo, K. Lee, J. Min, M. Hong, and W. Kim, “Eddy current loss reduction in axial-flux motors using 3D printing,” Energies, 16 (3), 2023.\
+-	D. Shin, M. Jung, K. Lee, K. Lee, and W. Kim, “A study on the improvement of torque density of an axial slot-less flux permanent magnet synchronous motor for collaborative robot,” Energies, 15 (9), 2022.\
+-	M. Jeong, K. Lee, H. Pyo, D. Nam, and W. Kim, “A study on the shape of the rotor to improve the performance of the spoke-type permanent magnet synchronous motor,” Energies, 14 (13), 2021.\
+-	D. Nam, K. Lee, H. Pyo, M. Jeong, S. Yang, W. Kim, and H. Jang, “A study on core skew considering manufacturability of double-layer spoke-type PMSM,” Energies, 14 (3), 2021.\
+-	H. Kong, K. Lee, H. Pyo, M. Jeong, and W. Kim, “Robust design process to restrain irreversible demagnetization of interior permanent magnet synchronous motor applied in railway vehicles using dysprosium-free permanent magnet,” J. of Electric. Engineering & Technology, 16 (1), 2021.\
+-	I. Yang, S. Lee, K. Lee, J. Lee, W. Kim, I. Sang, “A process to reduce the electromagnetic vibration by reducing the spatial harmonics of air gap magnetic flux density,” IEEE Trans. Magn., vol. 57, no. 2, pp. 1-6, 2020.\
 [Conference]\
 • K. Lee, M. Benson, X. Dong, J. Moon, and W. Lee, "Common-mode EMI noise analysis of Neutral-Point-Less (NPL) multilevel X-type inverter," 2024 IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, USA, 2024, pp. 1014-1020.\
 • K. Lee, M. Fereydoonian, M. S. S. Nia, and W. Lee, "A comprehensive review of partial discharge modeling and measurement in WBG-based AC machine drives," 2023 IEEE Transportation Electrification Conference & Expo (ITEC), Detroit, MI, USA, 2023, pp. 1-6.\
