@@ -35,14 +35,15 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
  
 # Publications
 [Journal]\
-• A. Halawa, K. Lee, M. Benson, J. Moon and W. Lee, "Characterization of Switch Voltage Unbalance Issue in WBG-Based Diode Clamped Multilevel Inverters," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3649480.\
 • K. Lee, H. Kim, J. Im, S. A. Sufi, C. Park and W. Lee, "A Review of Partial Discharge in High-Frequency and High-Speed WBG-Based Electric Drives," in IEEE Open Journal of Industry Applications, 2025. doi: 10.1109/OJIA.2025.3648282.\
 • K. Lee, M. Benson, X. Dong, L. Yi, J. Moon, and W. Lee, "Common-mode EMI analysis with active CMV cancellation in Neutral-Point-Less H-Type inverter," IEEE Trans. Power Electron., vol. 40, no. 10, pp. 15003-15012, Oct. 2025.\
 • K. Lee, H. Kim and W. Lee, "Brushless wound field synchronous generator design with an optical power transfer," IEEE Trans. Magn., vol. 61, no. 9, pp. 1-5, Sept. 2025.\
 • K. Lee, M. Benson, M. S. S. Nia and W. Lee, "Electromagnetic interference and partial discharge signature analysis of WBG-based AC motor drives," IEEE Trans. Ind. Appl., vol. 60, no. 4, pp. 6232-6241, July-Aug. 2024.\
-• X. Dong, M. Benson, K. Lee, L. Yi, W. Lee and J. Moon, "NPL.H: Neutral-Point-Less H-Type 3-level inverter," IEEE Trans. Power Electron., vol. 39, no. 2, pp. 2522-2536, Feb. 2024.\
 • K. Lee, M. Fereydoonian, M. Benson, A. Dornala, M. Guven, Y. Dong, and W. Lee, "Grid-connected PV inverter for driving induction machines with synchronous scalar control," IEEE Access, vol. 12, pp. 5177-5187, 2024.\
+• M. Benson, K. Lee, X. Dong, L. Yi, J. Moon and W. Lee, "Robustness of Load Impedance-Based Multilevel Voltage Generation in Neutral-Point-Less H-type(NPL.H)Inverter Topology with Load Imbalance," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2026.3650901.\
+• A. Halawa, K. Lee, M. Benson, J. Moon and W. Lee, "Characterization of Switch Voltage Unbalance Issue in WBG-Based Diode Clamped Multilevel Inverters," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3649480.\
 • M. Fereydoonian, K. Lee, C. Kiriella, J. Moon and W. Lee, "Closing the loop on circular economy in transportation electrification: Reuse, repurposing, and recycling of batteries, power electronics, and electric machines," IEEE J. Emerg. and Select. Topics in Ind. Electron., vol. 6, no. 3, pp. 931-947, July 2025.\
+• X. Dong, M. Benson, K. Lee, L. Yi, W. Lee and J. Moon, "NPL.H: Neutral-Point-Less H-Type 3-level inverter," IEEE Trans. Power Electron., vol. 39, no. 2, pp. 2522-2536, Feb. 2024.\
 • M. Jeong, K. Lee, S. Song, S. Lee, and W. Kim, “A study of magnetization yoke design for post-assembly magnetization performance improvement of a spoke-type permanent magnet synchronous motor,” Machines, 11 (9), 2023.\
 • H. Pyo, K. Lee, J. Min, M. Hong, and W. Kim, “Eddy current loss reduction in axial-flux motors using 3D printing,” Energies, 16 (3), 2023.\
 • D. Shin, M. Jung, K. Lee, K. Lee, and W. Kim, “A study on the improvement of torque density of an axial slot-less flux permanent magnet synchronous motor for collaborative robot,” Energies, 15 (9), 2022.\
