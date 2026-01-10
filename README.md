@@ -74,7 +74,9 @@ Kangbeen Lee (Student Member, IEEE) received a B.S. degree in electrical enginee
 • M. Guven, K. Lee, Y. Dong, and W. Lee, "Shunt-connected solar microinverter for induction motor soft-starting and active and reactive power compensation," 2022 IEEE Energy Conversion Congress and Exposition (ECCE), Detroit, MI, USA, 2022, pp. 1-6.\
 • M. Fereydoonian, K. Lee, D. Bobba, and W. Lee, "Comparative analysis of wound-field flux-switching machines with different field and armature winding configurations," 2022 IEEE Transportation Electrification Conference & Expo (ITEC), Anaheim, CA, USA, 2022, pp. 1076-1081.\
 • M. Benson, X. Dong, M. Guven, K. Lee, J. Moon, and W. Lee, "Neutral-Point-Less (NPL) multilevel inverter topology with single DC-link capacitor: H-type Inverter," 2022 IEEE Transportation Electrification Conference & Expo (ITEC), Anaheim, CA, USA, 2022, pp. 43-48.\
-• D. Nam, K. Lee, H. Pyo, M. Jeong, and W. Kim, "A study on performance improvement by reducing axial force of double-layer spoke-type PMSM with core skew structure," 2022 IEEE 20th Biennial Conference on Electromagnetic Field Computation (CEFC), Denver, CO, USA, 2022, pp. 1-2.
+• D. Nam, K. Lee, H. Pyo, M. Jeong, and W. Kim, "A study on performance improvement by reducing axial force of double-layer spoke-type PMSM with core skew structure," 2022 IEEE 20th Biennial Conference on Electromagnetic Field Computation (CEFC), Denver, CO, USA, 2022, pp. 1-2.\
+• Park, JP. et al, "CANYVAL-X Mission Development Using CubeSats," Space Operations: Contributions from the Global Community, Springer, Cham, 2017.\
+• Park, JP. et al, "Cubesat development for CANYVAL-X mission," 14th International Conference on Space Operations, 2016.\
 
 # Invention Disclosures
 • K. Lee and W. Lee, “Integrated Optical Power Transfer and Position Estimation in High Speed Electric Drives,” Michigan State University Technology, 2022.\
